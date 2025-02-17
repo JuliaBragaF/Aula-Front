@@ -20,9 +20,9 @@
      
     
      </p>
-<p> hello world </p>
-     <img src="https://i.pinimg.com/736x/1d/ea/77/1dea77a7bea8ba7de135cbefc2383ebc.jpg"
-      alt
+     <img class="borabill" src="https://i.pinimg.com/736x/1d/ea/77/1dea77a7bea8ba7de135cbefc2383ebc.jpg" alt="" width="100px" height="100px">
+     <img class="amostradinho" src="https://i.pinimg.com/736x/0b/32/63/0b3263156086d15a14a584bee58abb20.jpg" alt="" width="100px" height="100px">
+      
 
 </body>
 </html>
