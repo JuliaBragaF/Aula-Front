@@ -1,20 +1,26 @@
-body{
- background-color: black;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
 }
-h1{
-    font-style: oblique;
-    color: rgb(241, 107, 163);
-    text-align: center;
+h1 {
+  font-style: oblique;
+  color: rgb(241, 107, 163);
+  text-align: center;
 }
-img{
-   display: block;
-   margin: auto; 
-
+.img1{
+  position: relative;
+  margin-left: 565px;
+  display: flex;
 }
 p{
-    color: rgb(241, 92, 229);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: x-large;
+  margin-left: 120px;
+  color: rgb(241, 92, 229);
+  font-size: x-large;
+}
+.borabill{
+  position: relative;
+  bottom: 240px;
 }
 
-
+.amostradinho{
+  position: relative;
