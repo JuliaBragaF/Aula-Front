@@ -1,29 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="jurol.css">
-    <title>Trabalho Luís</title>
-</head>
-<body>
-    <br>
-    <h1> PORTFÓLIO </h1>
-    <br>
-    <img src="https://i.pinimg.com/736x/8a/18/65/8a1865fa374179f2e14a68793113c009.jpg" alt="">
-    <br> 
-    <p>  
-         <br> 
-        Ana Carolina Sena <br>
-        Experiência: Técnico em Informática para Internet - Senai Cimatec <br>
-        <br>
-        <br>
-        <br> Júlia Braga <br>
-        Experiência: Técnico em Informática para internet- Senai Cimatec
-     </p>
-     <img class="borabill" src="https://i.pinimg.com/736x/1d/ea/77/1dea77a7bea8ba7de135cbefc2383ebc.jpg" alt="" width="200px" height="200px">
-     <img class="amostradinho" src="https://i.pinimg.com/736x/0b/32/63/0b3263156086d15a14a584bee58abb20.jpg" alt="" width="200px" height="200px">
-      
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+.ti
+ {
+  
+  background-image: url("https://i.pinimg.com/736x/8a/18/65/8a1865fa374179f2e14a68793113c009.jpg")  ;
+  height: 800px;
+  width: 100%;
+  background-size: 100% 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: 0.3s;
+ }
+ h1{
+  font-style: oblique;
+  color: rgb(241, 107, 163);
+  text-align: center; 
+  font-size: 100px;
+  background-color: rgb(250, 0, 0);
+  padding: 20px;
+  border-radius: 8px; /* Arredonda os cantos do fundo */
+  margin: 10px 0; /* Espaço entre o texto */
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+ }
+.he{
+  position: relative;
+  margin-left: 565px;
+  display: flex;
+  width: 50%;
+  max-width: 30%;
+  
+}
+p{
+  margin-left: 210px;
+  margin-bottom: 5px;
+  color: rgb(221, 61, 221);
+  font-size: x-large;
+}
+.borabill{
+  position: relative;
+  
+  bottom: 90px;
+}
 
-</body>
-</html>
+.amostradinho{
+  position: relative;
+  margin-right: 1000px;
+  bottom: 210px;
+
+}
+.ju{
+    position: relative;
+    bottom: 90px;
+}
+.carol{
+  position: relative;
+  bottom: -40px;
+}
